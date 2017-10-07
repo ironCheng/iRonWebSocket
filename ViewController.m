@@ -11,14 +11,6 @@
 
 @interface ViewController ()
 
-@property (nonatomic, strong) UITextField *textField;
-@property (nonatomic, strong) UIButton *sendBtn;
-
-@property (nonatomic, strong) UITextView *textView;
-
-@property (nonatomic, strong) NSString *idSting;
-@property (nonatomic, strong) NSString *nameString;
-
 @end
 
 @implementation ViewController
